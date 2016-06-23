@@ -1,0 +1,10 @@
+<ul class="links hide-below-768">
+
+	<li class="first">
+		<a href="http://www.magento-dev.com/default/about-magento-demo-store/?___SID=U" title="You can add more custom links here">About Us</a>
+	</li>
+	<li class="last">
+		<a href="http://www.magento-dev.com/default/customer-service/?___SID=U"  title="You can even replace these links with any other content">Customer Service</a>
+	</li>
+
+</ul>

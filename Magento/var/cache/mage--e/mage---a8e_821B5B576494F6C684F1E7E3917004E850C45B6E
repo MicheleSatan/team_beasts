@@ -1,0 +1,107 @@
+
+    
+            <div class="the-slideshow-wrapper-outer" >
+    
+            <div class="the-slideshow-wrapper">
+
+                <div class="the-slideshow grid12-9 no-left-gutter   slider-arrows2 slider-pagination2 pagination-pos-over-bottom-right">
+                    <div id="slideshow-2a8563bc02a4b60056d3d8725ac94351" class="slides">
+                                                                        <div class="item slide">
+                                <a class="fade-on-slideshow-hover" href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U" title="Click to see all features">
+
+	<img src="http://www.magento-dev.com/media/wysiwyg/demo/infortis/ultimo/slideshow/s1_1.jpg" alt="Customizable Magento Theme" />
+
+		<div class="caption light1 top-right">
+			<h2 class="heading permanent">Customizable Theme</h2>
+			<p>You can change colors of almost every element</p>
+			<p>You have never seen so many options</p>
+		</div>
+
+</a>                            </div>
+                                                                                                <div class="item slide">
+                                <img src="http://www.magento-dev.com/media/wysiwyg/demo/infortis/ultimo/slideshow/s1_2.jpg" alt="Responsive Magento Theme" />
+
+	<a href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U" title="Click to see all features">
+		<div class="caption dark2">
+			<h2 class="heading permanent">Responsive</h2>
+			<p class="permanent">This theme can adapt to any mobile screen resolution</p>
+		</div>
+	</a>                            </div>
+                                                                                                <div class="item slide">
+                                <img src="http://www.magento-dev.com/media/wysiwyg/demo/infortis/ultimo/slideshow/s1_3.jpg" alt="Sample Slide" />
+
+	<a class="caption dark feature-icon-hover" href="http://www.magento-dev.com/default/dress7.html?___SID=U" title="Click to see the product">
+		<h2 class="hide-below-960" style="color: #fff; font-size: 35px; line-height: 60px; padding-right: 8px;">Super Promo</h2>
+		<span class="ic ic-lg ic-char ib ib-size-xl">-25%</span>
+	</a>
+                            </div>
+                                                                                                <div class="item slide">
+                                <a href="http://themeforest.net/item/ultimo-fluid-responsive-magento-theme/3231798?ref=infortis" title="Go to ThemeForest marketplace to buy this theme">
+
+	<img src="http://www.magento-dev.com/media/wysiwyg/demo/infortis/ultimo/slideshow/s1_4.png" alt="Buy Ultimo" />
+
+</a>                            </div>
+                                                                </div> <!-- end: slides -->
+                </div> <!-- end: the-slideshow -->
+
+                                                        <div class="the-slideshow-banners slideshow-banners grid12-3 no-right-gutter hide-below-768"><a class="banner fade-on-hover" href="http://themeforest.net/item/ultimo-fluid-responsive-magento-theme/3231798?ref=infortis" title="Go to ThemeForest marketplace to buy this theme">
+	<img src="http://www.magento-dev.com/media/wysiwyg/demo/infortis/ultimo/slideshow/banner/s1/01.jpg" alt="Buy This Theme" />
+
+	<div class="caption light1 full-width right main-font">
+		<p class="right">Buy This Theme</p>
+	</div>
+
+</a>
+
+<a class="banner fade-on-hover" href="http://ultimo.infortis-themes.com/demo/select-demo/" title="Click to see a list of all demos of this  Magento theme">
+	<img src="http://www.magento-dev.com/media/wysiwyg/demo/infortis/ultimo/slideshow/banner/s1/02.jpg" alt="List of all demos" />
+
+	<div class="caption dark1 full-width right main-font">
+		<p class="right">See All Demos</p>
+	</div>
+
+</a>
+
+<a class="banner fade-on-hover" href="http://www.magento-dev.com/default/downloadable/ebooks.html?___SID=U" title="Sell downloads in your Magento store (software, e-books, music, any digital products)">
+	<img src="http://www.magento-dev.com/media/wysiwyg/demo/infortis/ultimo/slideshow/banner/s1/03.jpg" alt="Sell Downloads" />
+
+	<div class="caption light1 full-width right main-font">
+		<p class="right">Sell Downloads</p>
+	</div>
+
+</a></div>
+                
+            </div> <!-- end: the-slideshow-wrapper -->
+
+            </div> <!-- end: the-slideshow-wrapper-outer -->
+    
+<script type="text/javascript">
+//<![CDATA[
+    jQuery(function($) {
+        
+        var owl = $('#slideshow-2a8563bc02a4b60056d3d8725ac94351');
+        owl.owlCarousel({
+
+            singleItem: true,
+
+                    slideSpeed: 200,
+        
+                    paginationSpeed: 500,
+        
+        
+                    stopOnHover: true,
+        
+                    rewindNav: true,
+            rewindSpeed: 600,
+        
+        
+                    transitionStyle: 'fadeUp',
+        
+            navigation: true,
+            navigationText: false
+
+        }); //end: owl
+
+    });
+//]]>
+</script>

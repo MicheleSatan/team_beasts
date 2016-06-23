@@ -1,0 +1,6 @@
+<img src="http://www.magento-dev.com/media/wysiwyg/demo/infortis/ultimo/slideshow/s1_3.jpg" alt="Sample Slide" />
+
+	<a class="caption dark feature-icon-hover" href="http://www.magento-dev.com/default/dress7.html?___SID=U" title="Click to see the product">
+		<h2 class="hide-below-960" style="color: #fff; font-size: 35px; line-height: 60px; padding-right: 8px;">Super Promo</h2>
+		<span class="ic ic-lg ic-char ib ib-size-xl">-25%</span>
+	</a>

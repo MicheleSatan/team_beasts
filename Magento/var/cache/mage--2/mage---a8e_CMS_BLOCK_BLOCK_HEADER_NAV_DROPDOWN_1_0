@@ -1,0 +1,39 @@
+<div class="grid-container-spaced">
+	<div class="grid12-3">
+
+		<h2>Responsive Magento Theme</h2>
+		<p>Ultimo is a premium Magento theme with advanced admin module. It's extremely customizable and fully responsive. Can be used for every type of store.</p>
+		<h5><a class="go" href="http://themeforest.net/item/ultimo-fluid-responsive-magento-theme/3231798?ref=infortis" style="color:red;">Buy this Magento theme</a></h5>
+
+	</div>
+	<div class="grid12-3">
+
+		<a href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U">
+			<img src="http://www.magento-dev.com/media/wysiwyg/infortis/ultimo/menu/custom/01.png" class="fade-on-hover" alt="Magento CMS blocks" />
+		</a>
+		<h4 class="heading">50+ CMS blocks</h4>
+		<p>You can use CMS blocks as content placeholders to display custom content in almost every part of the store. Import sample CMS blocks from the demo.</p>
+		<a href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U" class="go">See all features</a>
+
+	</div>
+	<div class="grid12-3">
+
+		<a href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U">
+			<img src="http://www.magento-dev.com/media/wysiwyg/infortis/ultimo/menu/custom/02.png" class="fade-on-hover" alt="Magento theme documentation" />
+		</a>
+		<h4 class="heading">190-pages documentation</h4>
+		<p>The best Magento theme documentation on ThemeForest. It also describes selected Magento features which you need to know when starting to work with Magento.</p>
+		<a href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U" class="go">See all features</a>
+
+	</div>
+	<div class="grid12-3">
+
+		<a href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U">
+			<img src="http://www.magento-dev.com/media/wysiwyg/infortis/ultimo/menu/custom/03.png" class="fade-on-hover" alt="Create Magento sub-themes" />
+		</a>
+		<h4 class="heading">Easy to customize</h4>
+		<p>Use Ultimo as a starting point for your custom projects. Unlike many other themes, Ultimo lets you create multiple custom sub-themes (theme variants) for your clients.</p>
+		<a href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U" class="go">See all features</a>
+
+	</div>
+</div>

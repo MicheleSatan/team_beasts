@@ -1,0 +1,15 @@
+<div class="links-wrapper-separators">
+
+	<ul class="links">
+		<li class="first">
+			<a href="http://ultimo.infortis-themes.com/demo/select-demo/" title="See more demos">All demos</a>
+		</li>
+		<li class="hide-below-768">
+			<a href="http://www.magento-dev.com/default/ultimo-responsive-magento-theme/?___SID=U" title="See the list of all features">Features</a>
+		</li>
+		<li class="last hide-below-480">
+			<a href="http://themeforest.net/item/ultimo-fluid-responsive-magento-theme/3231798?ref=infortis" title="Click to buy this theme">Buy me!</a>
+		</li>
+	</ul>
+
+</div>

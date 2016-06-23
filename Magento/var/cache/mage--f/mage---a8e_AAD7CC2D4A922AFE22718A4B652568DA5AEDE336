@@ -1,0 +1,91 @@
+
+<h3 class="section-title padding-right">Our Brands</h3>
+<div class="itemslider-wrapper brand-slider-wrapper slider-arrows1 slider-arrows1-pos-top-right slider-pagination1 slider-pagination1-centered">
+	<div id="itemslider-brands-07b648afe672ff342f9fc3309b28b216" class="itemslider itemslider-responsive brand-slider">
+					
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=Brandisimi" title="Click to see more products from Brandisimi"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/brandisimi.png" alt="Brandisimi" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=SampleManufacturer" title="Click to see more products from SampleManufacturer"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/samplemanufacturer.png" alt="SampleManufacturer" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=TheBrand" title="Click to see more products from TheBrand"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/thebrand.png" alt="TheBrand" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=BlueLogo" title="Click to see more products from BlueLogo"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/bluelogo.png" alt="BlueLogo" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=Publisher" title="Click to see more products from Publisher"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/publisher.png" alt="Publisher" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=Company" title="Click to see more products from Company"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/company.png" alt="Company" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=Soundwave" title="Click to see more products from Soundwave"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/soundwave.png" alt="Soundwave" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=LogoFashion" title="Click to see more products from LogoFashion"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/logofashion.png" alt="LogoFashion" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=Samsung" title="Click to see more products from Samsung"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/samsung.png" alt="Samsung" /></a>
+							</div>
+
+							
+			<div class="item">
+									<a class="fade-on-hover" href="http://www.magento-dev.com/default/catalogsearch/result/?q=Apple" title="Click to see more products from Apple"><img class="lazyOwl" data-src="http://www.magento-dev.com/media/wysiwyg/infortis/brands/apple.png" alt="Apple" /></a>
+							</div>
+
+				</div> <!-- end: itemslider -->
+</div> <!-- end: itemslider-wrapper -->
+<script type="text/javascript">
+//<![CDATA[
+	jQuery(function($) {
+
+		var owl = $('#itemslider-brands-07b648afe672ff342f9fc3309b28b216');
+		owl.owlCarousel({
+
+					lazyLoad: true,
+		
+					itemsCustom: [ [0, 1], [320, 2], [480, 2], [768, 3], [960, 4], [1280, 5] ],
+			responsiveRefreshRate: 50,
+		
+					slideSpeed: 200,
+		
+					paginationSpeed: 500,
+		
+		
+					autoPlay: 6000,
+		
+					stopOnHover: true,
+		
+					rewindNav: true,
+			rewindSpeed: 600,
+		
+					pagination: true,
+			paginationSpeed: 600,
+		
+			navigation: true,
+			navigationText: false
+
+		}); //end: owl
+
+	});
+//]]>
+</script>

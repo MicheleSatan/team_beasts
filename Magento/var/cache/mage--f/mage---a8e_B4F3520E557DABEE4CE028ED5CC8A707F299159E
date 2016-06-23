@@ -1,0 +1,416 @@
+
+<h3 class="section-title padding-right">Our Featured Products</h3>
+<div class="itemslider-wrapper slider-arrows1 slider-arrows1-pos-top-right slider-pagination1">
+    <div id="itemslider-featured-01cc67ab17661ceeb28724a510812e4d" class="itemslider itemslider-responsive products-grid centered">
+            <div class="item">
+        
+            <div class="product-image-wrapper" style="max-width:196px;">
+            
+                <a href="http://www.magento-dev.com/default/top1.html?___SID=U" title="Product with Variants" class="product-image">
+                    
+                                            <img class="lazyOwl" data-src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Product with Variants" />
+                    
+                                            <img class="alt-img" src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Product with Variants" />                    
+                                    </a>
+            
+                <ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://www.magento-dev.com/default/wishlist/index/add/product/35/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="2 icon ib ic ic-heart"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://www.magento-dev.com/default/catalog/product_compare/add/product/35/uenc/aHR0cDovL3d3dy5tYWdlbnRvLWRldi5jb20vaW5kZXgucGhwLw,,/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Compare">
+					<span class="2 icon ib ic ic-compare"></span>
+			</a></li></ul>                
+            </div> <!-- end: product-image-wrapper -->
+
+            <h3 class="product-name"><a href="http://www.magento-dev.com/default/top1.html?___SID=U" title="Product with Variants">Product with Variants</a></h3>
+                                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <span class="amount">2 Review(s)</span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-3501cc67ab17661ceeb28724a510812e4d">
+                                            <span class="price">€40.00</span>                                    </span>
+                        
+        </div>
+
+            <div class="actions">
+
+                
+                
+            </div>
+            
+        </div>
+            <div class="item">
+        
+            <div class="product-image-wrapper" style="max-width:196px;">
+            
+                <a href="http://www.magento-dev.com/default/top9.html?___SID=U" title="alt" class="product-image">
+                    
+                                            <img class="lazyOwl" data-src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="alt" />
+                    
+                                            <img class="alt-img" src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Configurable Product" />                    
+                                    </a>
+            
+                <ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://www.magento-dev.com/default/wishlist/index/add/product/81/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="2 icon ib ic ic-heart"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://www.magento-dev.com/default/catalog/product_compare/add/product/81/uenc/aHR0cDovL3d3dy5tYWdlbnRvLWRldi5jb20vaW5kZXgucGhwLw,,/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Compare">
+					<span class="2 icon ib ic ic-compare"></span>
+			</a></li></ul>                
+            </div> <!-- end: product-image-wrapper -->
+
+            <h3 class="product-name"><a href="http://www.magento-dev.com/default/top9.html?___SID=U" title="Configurable Product">Configurable Product</a></h3>
+                                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-8101cc67ab17661ceeb28724a510812e4d">
+                                            <span class="price">€100.00</span>                                    </span>
+                        
+        </div>
+
+            <div class="actions">
+
+                
+                
+            </div>
+            
+        </div>
+            <div class="item">
+        
+            <div class="product-image-wrapper" style="max-width:196px;">
+            
+                <a href="http://www.magento-dev.com/default/top3.html?___SID=U" title="Product Example" class="product-image">
+                    
+                                            <img class="lazyOwl" data-src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Product Example" />
+                    
+                                            <img class="alt-img" src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Product Example" />                    
+                                    </a>
+            
+                <ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://www.magento-dev.com/default/wishlist/index/add/product/37/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="2 icon ib ic ic-heart"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://www.magento-dev.com/default/catalog/product_compare/add/product/37/uenc/aHR0cDovL3d3dy5tYWdlbnRvLWRldi5jb20vaW5kZXgucGhwLw,,/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Compare">
+					<span class="2 icon ib ic ic-compare"></span>
+			</a></li></ul>                
+            </div> <!-- end: product-image-wrapper -->
+
+            <h3 class="product-name"><a href="http://www.magento-dev.com/default/top3.html?___SID=U" title="Product Example">Product Example</a></h3>
+                                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-3701cc67ab17661ceeb28724a510812e4d">
+                                            <span class="price">€99.00</span>                                    </span>
+                        
+        </div>
+
+            <div class="actions">
+
+                
+                
+            </div>
+            
+        </div>
+            <div class="item">
+        
+            <div class="product-image-wrapper" style="max-width:196px;">
+            
+                <a href="http://www.magento-dev.com/default/top4.html?___SID=U" title="New Hot Top" class="product-image">
+                    
+                                            <img class="lazyOwl" data-src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="New Hot Top" />
+                    
+                                            <img class="alt-img" src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="New Hot Top" />                    
+                                    </a>
+            
+                <ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://www.magento-dev.com/default/wishlist/index/add/product/39/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="2 icon ib ic ic-heart"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://www.magento-dev.com/default/catalog/product_compare/add/product/39/uenc/aHR0cDovL3d3dy5tYWdlbnRvLWRldi5jb20vaW5kZXgucGhwLw,,/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Compare">
+					<span class="2 icon ib ic ic-compare"></span>
+			</a></li></ul>                
+            </div> <!-- end: product-image-wrapper -->
+
+            <h3 class="product-name"><a href="http://www.magento-dev.com/default/top4.html?___SID=U" title="New Hot Top">New Hot Top</a></h3>
+                                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">2 Review(s)</span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-3901cc67ab17661ceeb28724a510812e4d">
+                                            <span class="price">€80.00</span>                                    </span>
+                        
+        </div>
+
+            <div class="actions">
+
+                
+                
+            </div>
+            
+        </div>
+            <div class="item">
+        
+            <div class="product-image-wrapper" style="max-width:196px;">
+            
+                <a href="http://www.magento-dev.com/default/top5.html?___SID=U" title="Another Sample Top" class="product-image">
+                    
+                                            <img class="lazyOwl" data-src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Another Sample Top" />
+                    
+                                                                
+                                    </a>
+            
+                <ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://www.magento-dev.com/default/wishlist/index/add/product/40/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="2 icon ib ic ic-heart"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://www.magento-dev.com/default/catalog/product_compare/add/product/40/uenc/aHR0cDovL3d3dy5tYWdlbnRvLWRldi5jb20vaW5kZXgucGhwLw,,/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Compare">
+					<span class="2 icon ib ic ic-compare"></span>
+			</a></li></ul>                
+            </div> <!-- end: product-image-wrapper -->
+
+            <h3 class="product-name"><a href="http://www.magento-dev.com/default/top5.html?___SID=U" title="Another Sample Top">Another Sample Top</a></h3>
+                                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-4001cc67ab17661ceeb28724a510812e4d">
+                                            <span class="price">€110.00</span>                                    </span>
+                        
+        </div>
+
+            <div class="actions">
+
+                
+                
+            </div>
+            
+        </div>
+            <div class="item">
+        
+            <div class="product-image-wrapper" style="max-width:196px;">
+            
+                <a href="http://www.magento-dev.com/default/top6.html?___SID=U" title="Next Sample Product" class="product-image">
+                    
+                                            <img class="lazyOwl" data-src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Next Sample Product" />
+                    
+                                                                
+                                    </a>
+            
+                <ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://www.magento-dev.com/default/wishlist/index/add/product/41/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="2 icon ib ic ic-heart"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://www.magento-dev.com/default/catalog/product_compare/add/product/41/uenc/aHR0cDovL3d3dy5tYWdlbnRvLWRldi5jb20vaW5kZXgucGhwLw,,/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Compare">
+					<span class="2 icon ib ic ic-compare"></span>
+			</a></li></ul>                
+            </div> <!-- end: product-image-wrapper -->
+
+            <h3 class="product-name"><a href="http://www.magento-dev.com/default/top6.html?___SID=U" title="Next Sample Product">Next Sample Product</a></h3>
+                                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:60%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-4101cc67ab17661ceeb28724a510812e4d">
+                                            <span class="price">€110.00</span>                                    </span>
+                        
+        </div>
+
+            <div class="actions">
+
+                
+                
+            </div>
+            
+        </div>
+            <div class="item">
+        
+            <div class="product-image-wrapper" style="max-width:196px;">
+            
+                <a href="http://www.magento-dev.com/default/top7.html?___SID=U" title="Some Other Product" class="product-image">
+                    
+                                            <img class="lazyOwl" data-src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Some Other Product" />
+                    
+                                                                
+                                    </a>
+            
+                <ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://www.magento-dev.com/default/wishlist/index/add/product/42/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="2 icon ib ic ic-heart"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://www.magento-dev.com/default/catalog/product_compare/add/product/42/uenc/aHR0cDovL3d3dy5tYWdlbnRvLWRldi5jb20vaW5kZXgucGhwLw,,/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Compare">
+					<span class="2 icon ib ic ic-compare"></span>
+			</a></li></ul>                
+            </div> <!-- end: product-image-wrapper -->
+
+            <h3 class="product-name"><a href="http://www.magento-dev.com/default/top7.html?___SID=U" title="Some Other Product">Some Other Product</a></h3>
+                                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-4201cc67ab17661ceeb28724a510812e4d">
+                                            <span class="price">€200.00</span>                                    </span>
+                        
+        </div>
+
+            <div class="actions">
+
+                
+                
+            </div>
+            
+        </div>
+            <div class="item">
+        
+            <div class="product-image-wrapper" style="max-width:196px;">
+            
+                <a href="http://www.magento-dev.com/default/top8.html?___SID=U" title="Simple Woman Top" class="product-image">
+                    
+                                            <img class="lazyOwl" data-src="http://www.magento-dev.com/media/catalog/product/cache/1/small_image/196x/040ec09b1e35df139433887a97daa66f/placeholder/default/placeholder_1.jpg" alt="Simple Woman Top" />
+                    
+                                                                
+                                    </a>
+            
+                <ul class="add-to-links clearer addto-links-icons addto-onimage visible-onhover">
+			<li><a class="link-wishlist" 
+				href="http://www.magento-dev.com/default/wishlist/index/add/product/43/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Wishlist">
+					<span class="2 icon ib ic ic-heart"></span>
+			</a></li>
+			<li><a class="link-compare"
+				href="http://www.magento-dev.com/default/catalog/product_compare/add/product/43/uenc/aHR0cDovL3d3dy5tYWdlbnRvLWRldi5jb20vaW5kZXgucGhwLw,,/form_key/f4hRJaYufMTPIWil/?___SID=U" 
+				title="Add to Compare">
+					<span class="2 icon ib ic ic-compare"></span>
+			</a></li></ul>                
+            </div> <!-- end: product-image-wrapper -->
+
+            <h3 class="product-name"><a href="http://www.magento-dev.com/default/top8.html?___SID=U" title="Simple Woman Top">Simple Woman Top</a></h3>
+                                <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <span class="amount">1 Review(s)</span>
+    </div>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-4301cc67ab17661ceeb28724a510812e4d">
+                                            <span class="price">€39.50</span>                                    </span>
+                        
+        </div>
+
+            <div class="actions">
+
+                
+                
+            </div>
+            
+        </div>
+        </div> <!-- end: itemslider -->
+</div> <!-- end: itemslider-wrapper -->
+<script type="text/javascript">
+//<![CDATA[
+    jQuery(function($) {
+        
+        var owl = $('#itemslider-featured-01cc67ab17661ceeb28724a510812e4d');
+        owl.owlCarousel({
+
+                    lazyLoad: true,
+        
+                    itemsCustom: [ [0, 1], [320, 2], [480, 3], [768, 4], [960, 5], [1280, 6] ],
+            responsiveRefreshRate: 50,
+        
+                    slideSpeed: 200,
+        
+                    paginationSpeed: 500,
+        
+                    scrollPerPage: true,
+        
+        
+                    stopOnHover: true,
+        
+                    rewindNav: true,
+            rewindSpeed: 600,
+        
+                    pagination: true,
+        
+            navigation: true,
+            navigationText: false
+
+        }); //end: owl
+
+    });
+//]]>
+</script>

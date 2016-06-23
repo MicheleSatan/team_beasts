@@ -1,0 +1,32 @@
+<div class="social-links ib-wrapper--square">
+	<a class="first" href="http://twitter.com/infortis" title="Follow Infortis on Twitter">
+		<span class="ib ib-hover ic ic-lg ic-twitter"></span>
+	</a>
+	<a href="#" title="Join us on Facebook">
+		<span class="ib ib-hover ic ic-lg ic-facebook"></span>
+	</a>
+	<a href="#" title="Join us on Google Plus">
+		<span class="ib ib-hover ic ic-lg ic-googleplus"></span>
+	</a>
+	<a href="#" title="Youtube">
+		<span class="ib ib-hover ic ic-lg ic-youtube"></span>
+	</a>
+	<a href="#" title="Vimeo">
+		<span class="ib ib-hover ic ic-lg ic-vimeo"></span>
+	</a>
+	<a href="#" title="Instagram">
+		<span class="ib ib-hover ic ic-lg ic-instagram"></span>
+	</a>
+	<a href="#" title="Pinterest">
+		<span class="ib ib-hover ic ic-lg ic-pinterest"></span>
+	</a>
+	<a href="#" title="Linked in">
+		<span class="ib ib-hover ic ic-lg ic-linkedin"></span>
+	</a>
+	<a href="#" title="VKontakte">
+		<span class="ib ib-hover ic ic-lg ic-vk"></span>
+	</a>
+	<a href="#" title="Renren">
+		<span class="ib ib-hover ic ic-lg ic-renren"></span>
+	</a>
+</div>

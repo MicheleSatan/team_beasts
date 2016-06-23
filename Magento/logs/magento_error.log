@@ -1,0 +1,210 @@
+[Mon Feb 08 11:14:50.737799 2016] [core:alert] [pid 3893] [client 127.0.0.1:39265] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:14:54.813075 2016] [core:alert] [pid 3894] [client 127.0.0.1:39267] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:25:09.715796 2016] [core:alert] [pid 4095] [client 127.0.0.1:39306] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:25:10.488070 2016] [core:alert] [pid 4096] [client 127.0.0.1:39307] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:25:16.083247 2016] [core:alert] [pid 4097] [client 127.0.0.1:39308] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:25:16.798140 2016] [core:alert] [pid 4098] [client 127.0.0.1:39309] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:29:06.389861 2016] [core:alert] [pid 4095] [client 127.0.0.1:39352] /srv/apps/magento/app/magento/downloader/.htaccess: order not allowed here, referer: http://www.magento-dev.com/magento/downloader.php?action=download
+[Mon Feb 08 11:37:32.664225 2016] [core:alert] [pid 4094] [client 127.0.0.1:39532] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here, referer: http://www.magento-dev.com/magento/downloader/
+[Mon Feb 08 11:37:32.897713 2016] [core:alert] [pid 4095] [client 127.0.0.1:39533] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here, referer: http://www.magento-dev.com/magento/downloader/skin/install/boxes.css
+[Mon Feb 08 11:49:53.707015 2016] [core:alert] [pid 4096] [client 127.0.0.1:39539] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:49:58.143100 2016] [core:alert] [pid 4097] [client 127.0.0.1:39540] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here, referer: http://www.magento-dev.com/magento/downloader.php?action=download
+[Mon Feb 08 11:49:59.126527 2016] [core:alert] [pid 4096] [client 127.0.0.1:39545] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here, referer: http://www.magento-dev.com/magento/downloader.php?action=download
+[Mon Feb 08 11:50:00.897649 2016] [core:alert] [pid 4097] [client 127.0.0.1:39546] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here, referer: http://www.magento-dev.com/magento/downloader.php?action=deploy
+[Mon Feb 08 11:50:03.396072 2016] [core:alert] [pid 4098] [client 127.0.0.1:39547] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:50:06.628425 2016] [core:alert] [pid 4122] [client 127.0.0.1:39548] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:51:17.139869 2016] [core:alert] [pid 4094] [client 127.0.0.1:39549] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 11:51:17.960236 2016] [core:alert] [pid 4095] [client 127.0.0.1:39550] /srv/apps/magento/app/magento/.htaccess: DirectoryIndex not allowed here
+[Mon Feb 08 12:01:01.461895 2016] [core:alert] [pid 4259] [client 127.0.0.1:39582] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:18.019878 2016] [core:alert] [pid 4094] [client 127.0.0.1:39586] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:26.070353 2016] [core:alert] [pid 4258] [client 127.0.0.1:39589] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:29.092633 2016] [core:alert] [pid 4097] [client 127.0.0.1:39590] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:31.479333 2016] [core:alert] [pid 4261] [client 127.0.0.1:39591] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:33.098476 2016] [core:alert] [pid 4096] [client 127.0.0.1:39592] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:34.887728 2016] [core:alert] [pid 4259] [client 127.0.0.1:39593] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:36.494240 2016] [core:alert] [pid 4260] [client 127.0.0.1:39594] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:38.062567 2016] [core:alert] [pid 4094] [client 127.0.0.1:39595] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:39.985700 2016] [core:alert] [pid 4098] [client 127.0.0.1:39596] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:42.054031 2016] [core:alert] [pid 4122] [client 127.0.0.1:39597] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:46.293771 2016] [core:alert] [pid 4258] [client 127.0.0.1:39598] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:01:58.473400 2016] [core:alert] [pid 4261] [client 127.0.0.1:39600] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:06:31.550486 2016] [core:alert] [pid 4096] [client 127.0.0.1:39631] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Mon Feb 08 12:26:04.628935 2016] [core:alert] [pid 1181] [client 127.0.0.1:33677] /srv/apps/magento/app/magento/app/.htaccess: order not allowed here
+[Fri Feb 26 10:06:56.793883 2016] [access_compat:error] [pid 6001] [client 127.0.0.1:32854] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 10:07:43.777373 2016] [access_compat:error] [pid 6001] [client 127.0.0.1:32866] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 10:07:49.654829 2016] [access_compat:error] [pid 6002] [client 127.0.0.1:32870] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 10:07:57.411172 2016] [access_compat:error] [pid 5989] [client 127.0.0.1:32871] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 10:09:22.918403 2016] [access_compat:error] [pid 5992] [client 127.0.0.1:32874] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 11:20:09.291468 2016] [access_compat:error] [pid 5992] [client 127.0.0.1:32909] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 11:20:24.086194 2016] [access_compat:error] [pid 6003] [client 127.0.0.1:32914] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 13:18:43.457623 2016] [access_compat:error] [pid 1137] [client 127.0.0.1:60312] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 13:19:31.632342 2016] [access_compat:error] [pid 2409] [client 127.0.0.1:60321] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 13:19:40.307349 2016] [access_compat:error] [pid 1141] [client 127.0.0.1:60324] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 13:19:46.585149 2016] [access_compat:error] [pid 1136] [client 127.0.0.1:60326] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 13:19:49.527079 2016] [access_compat:error] [pid 1135] [client 127.0.0.1:60327] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 13:19:56.301865 2016] [access_compat:error] [pid 2409] [client 127.0.0.1:60329] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 13:20:07.804789 2016] [access_compat:error] [pid 2410] [client 127.0.0.1:60333] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Feb 26 13:20:10.447296 2016] [access_compat:error] [pid 1136] [client 127.0.0.1:60334] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Mon Feb 29 14:45:13.168101 2016] [access_compat:error] [pid 2278] [client 127.0.0.1:35345] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Mon Feb 29 14:45:26.136726 2016] [access_compat:error] [pid 1131] [client 127.0.0.1:35353] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Mon Feb 29 14:47:08.666420 2016] [access_compat:error] [pid 2278] [client 127.0.0.1:35358] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:28:53.623169 2016] [access_compat:error] [pid 2517] [client 127.0.0.1:38707] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:29:00.952537 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:38714] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:29:06.237535 2016] [access_compat:error] [pid 1235] [client 127.0.0.1:38716] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:32:08.954245 2016] [access_compat:error] [pid 1236] [client 127.0.0.1:38737] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:32:40.323373 2016] [access_compat:error] [pid 2517] [client 127.0.0.1:38741] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:32:51.832122 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:38744] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:33:44.589156 2016] [access_compat:error] [pid 1235] [client 127.0.0.1:38749] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:33:48.984031 2016] [access_compat:error] [pid 2514] [client 127.0.0.1:38754] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:33:49.192977 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:38755] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:33:55.689529 2016] [access_compat:error] [pid 2512] [client 127.0.0.1:38761] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:35:47.154721 2016] [access_compat:error] [pid 2516] [client 127.0.0.1:38767] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:35:57.742947 2016] [access_compat:error] [pid 2512] [client 127.0.0.1:38770] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:37:19.254936 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:38774] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:38:48.607914 2016] [access_compat:error] [pid 1236] [client 127.0.0.1:38784] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:38:53.843663 2016] [access_compat:error] [pid 2512] [client 127.0.0.1:38786] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:39:12.100074 2016] [access_compat:error] [pid 1235] [client 127.0.0.1:38788] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:42:38.582407 2016] [access_compat:error] [pid 1236] [client 127.0.0.1:38794] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:45:39.290476 2016] [access_compat:error] [pid 1239] [client 127.0.0.1:38801] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:45:54.259827 2016] [access_compat:error] [pid 1236] [client 127.0.0.1:38803] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:46:08.159036 2016] [access_compat:error] [pid 2516] [client 127.0.0.1:38805] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:46:20.860750 2016] [access_compat:error] [pid 2517] [client 127.0.0.1:38809] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:46:26.052273 2016] [access_compat:error] [pid 2514] [client 127.0.0.1:38810] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:46:36.040463 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:38812] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:46:51.114953 2016] [access_compat:error] [pid 1237] [client 127.0.0.1:38814] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:46:56.266505 2016] [access_compat:error] [pid 2516] [client 127.0.0.1:38815] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:47:00.685395 2016] [access_compat:error] [pid 2512] [client 127.0.0.1:38816] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:47:09.872879 2016] [access_compat:error] [pid 2517] [client 127.0.0.1:38818] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 01 10:47:12.537582 2016] [access_compat:error] [pid 2514] [client 127.0.0.1:38819] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 15:54:27.810224 2016] [:error] [pid 3905] [client 127.0.0.1:33620] PHP Fatal error:  Class 'Mage_Import_Helper_Data' not found in /srv/apps/magento/app/magento/app/Mage.php on line 547, referer: http://www.magento-dev.com/magento/index.php/admin/
+[Wed Mar 02 16:00:23.865930 2016] [:error] [pid 4856] [client 127.0.0.1:33636] PHP Fatal error:  Class 'Mage_Import_Helper_Data' not found in /srv/apps/magento/app/magento/app/Mage.php on line 547
+[Wed Mar 02 16:02:40.235231 2016] [:error] [pid 1235] [client 127.0.0.1:33640] PHP Fatal error:  Class 'Mage_Import_Helper_Data' not found in /srv/apps/magento/app/magento/app/Mage.php on line 547
+[Wed Mar 02 16:11:12.575246 2016] [access_compat:error] [pid 4856] [client 127.0.0.1:33647] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:11:27.633204 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:33654] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:11:31.798583 2016] [access_compat:error] [pid 3905] [client 127.0.0.1:33655] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:11:43.521130 2016] [access_compat:error] [pid 3902] [client 127.0.0.1:33657] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:11:45.902491 2016] [access_compat:error] [pid 1235] [client 127.0.0.1:33658] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:48:08.767695 2016] [access_compat:error] [pid 1237] [client 127.0.0.1:33666] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:48:17.150246 2016] [access_compat:error] [pid 1239] [client 127.0.0.1:33669] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:48:29.063664 2016] [access_compat:error] [pid 1235] [client 127.0.0.1:33671] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:48:36.429635 2016] [access_compat:error] [pid 1236] [client 127.0.0.1:33673] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:48:40.918477 2016] [access_compat:error] [pid 4855] [client 127.0.0.1:33674] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:53:47.340975 2016] [access_compat:error] [pid 3905] [client 127.0.0.1:33686] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 16:53:50.643374 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:33687] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 17:08:30.685454 2016] [access_compat:error] [pid 1236] [client 127.0.0.1:33695] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 17:08:33.208282 2016] [access_compat:error] [pid 4855] [client 127.0.0.1:33696] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 17:08:52.627789 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:33699] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 17:08:54.881205 2016] [access_compat:error] [pid 4854] [client 127.0.0.1:33700] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 17:09:00.930625 2016] [access_compat:error] [pid 4856] [client 127.0.0.1:33702] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 17:09:04.006739 2016] [access_compat:error] [pid 1239] [client 127.0.0.1:33703] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 17:13:00.030608 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:33709] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 02 17:13:21.188189 2016] [access_compat:error] [pid 1236] [client 127.0.0.1:33715] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:46:19.909140 2016] [access_compat:error] [pid 1127] [client 127.0.0.1:35424] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:46:44.690675 2016] [access_compat:error] [pid 2791] [client 127.0.0.1:35429] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:46:52.920259 2016] [access_compat:error] [pid 1124] [client 127.0.0.1:35431] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:47:09.670334 2016] [access_compat:error] [pid 1128] [client 127.0.0.1:35433] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:48:30.052341 2016] [access_compat:error] [pid 2792] [client 127.0.0.1:35437] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:48:36.945632 2016] [access_compat:error] [pid 1126] [client 127.0.0.1:35439] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:48:42.182433 2016] [access_compat:error] [pid 1128] [client 127.0.0.1:35441] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:48:45.311227 2016] [access_compat:error] [pid 1127] [client 127.0.0.1:35442] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:50:14.155476 2016] [access_compat:error] [pid 2791] [client 127.0.0.1:35453] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:58:11.274942 2016] [access_compat:error] [pid 1126] [client 127.0.0.1:35458] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 09:58:13.880704 2016] [access_compat:error] [pid 1124] [client 127.0.0.1:35459] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 10:13:13.104491 2016] [access_compat:error] [pid 1126] [client 127.0.0.1:35472] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 10:13:15.838734 2016] [access_compat:error] [pid 1124] [client 127.0.0.1:35473] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 10:13:25.495275 2016] [access_compat:error] [pid 1125] [client 127.0.0.1:35475] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:07:55.074233 2016] [access_compat:error] [pid 1127] [client 127.0.0.1:36012] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:08:12.122907 2016] [access_compat:error] [pid 1126] [client 127.0.0.1:36016] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:46:36.460719 2016] [access_compat:error] [pid 1125] [client 127.0.0.1:36030] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:49:40.902616 2016] [access_compat:error] [pid 2791] [client 127.0.0.1:36035] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:49:44.012755 2016] [access_compat:error] [pid 2863] [client 127.0.0.1:36036] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:54:21.948768 2016] [access_compat:error] [pid 2792] [client 127.0.0.1:36041] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:54:28.467046 2016] [access_compat:error] [pid 1125] [client 127.0.0.1:36042] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:55:07.287983 2016] [access_compat:error] [pid 2865] [client 127.0.0.1:36044] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:55:12.081511 2016] [access_compat:error] [pid 1126] [client 127.0.0.1:36045] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:56:23.229658 2016] [access_compat:error] [pid 2791] [client 127.0.0.1:36047] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 11:56:40.365332 2016] [access_compat:error] [pid 2792] [client 127.0.0.1:36050] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 12:12:11.418895 2016] [access_compat:error] [pid 2792] [client 127.0.0.1:36069] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 12:14:30.756593 2016] [access_compat:error] [pid 1127] [client 127.0.0.1:36072] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 12:14:34.776274 2016] [access_compat:error] [pid 1126] [client 127.0.0.1:36074] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 12:15:05.340995 2016] [access_compat:error] [pid 1125] [client 127.0.0.1:36082] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 16:34:43.440555 2016] [access_compat:error] [pid 2791] [client 127.0.0.1:36304] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 16:34:48.473571 2016] [access_compat:error] [pid 4592] [client 127.0.0.1:36307] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 16:35:05.359830 2016] [access_compat:error] [pid 2792] [client 127.0.0.1:36309] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 16:36:43.852467 2016] [access_compat:error] [pid 6381] [client 127.0.0.1:36312] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 16:36:46.723318 2016] [access_compat:error] [pid 1126] [client 127.0.0.1:36314] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 03 16:36:56.505428 2016] [access_compat:error] [pid 2789] [client 127.0.0.1:36316] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Mar 04 10:32:18.457888 2016] [access_compat:error] [pid 2601] [client 127.0.0.1:38768] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Mar 04 10:32:25.714685 2016] [access_compat:error] [pid 1227] [client 127.0.0.1:38775] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Mar 04 11:02:14.879816 2016] [access_compat:error] [pid 2603] [client 127.0.0.1:38793] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Fri Mar 04 11:02:21.726121 2016] [access_compat:error] [pid 2602] [client 127.0.0.1:38795] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 09 12:34:47.372215 2016] [access_compat:error] [pid 1174] [client 127.0.0.1:47218] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 09 12:34:53.506678 2016] [access_compat:error] [pid 1172] [client 127.0.0.1:47224] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Wed Mar 09 12:34:55.811930 2016] [access_compat:error] [pid 1171] [client 127.0.0.1:47225] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 10 09:46:02.720581 2016] [access_compat:error] [pid 1234] [client 127.0.0.1:33883] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 10 09:46:09.231989 2016] [access_compat:error] [pid 1235] [client 127.0.0.1:33885] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 10:08:44.210753 2016] [access_compat:error] [pid 2399] [client 127.0.0.1:42764] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 10:20:39.929167 2016] [access_compat:error] [pid 1215] [client 127.0.0.1:42899] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 10:20:48.220360 2016] [access_compat:error] [pid 2399] [client 127.0.0.1:42901] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 10:22:16.222423 2016] [access_compat:error] [pid 1214] [client 127.0.0.1:42911] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 10:22:23.213315 2016] [access_compat:error] [pid 2397] [client 127.0.0.1:42913] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 10:22:41.114532 2016] [access_compat:error] [pid 1211] [client 127.0.0.1:42917] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 10:22:44.992308 2016] [access_compat:error] [pid 1213] [client 127.0.0.1:42918] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 10:22:47.309300 2016] [access_compat:error] [pid 1212] [client 127.0.0.1:42920] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:25:44.439953 2016] [access_compat:error] [pid 2974] [client 127.0.0.1:42979] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:26:22.432727 2016] [access_compat:error] [pid 20691] [client 127.0.0.1:42983] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:29:13.192191 2016] [access_compat:error] [pid 2973] [client 127.0.0.1:42987] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:29:59.559025 2016] [access_compat:error] [pid 2975] [client 127.0.0.1:42990] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:30:05.441328 2016] [access_compat:error] [pid 20691] [client 127.0.0.1:42992] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:30:11.410906 2016] [access_compat:error] [pid 20690] [client 127.0.0.1:42993] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:30:45.224192 2016] [access_compat:error] [pid 20692] [client 127.0.0.1:43007] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:30:52.586169 2016] [access_compat:error] [pid 2975] [client 127.0.0.1:43009] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:31:08.082166 2016] [access_compat:error] [pid 20690] [client 127.0.0.1:43016] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:31:11.952046 2016] [access_compat:error] [pid 20692] [client 127.0.0.1:43017] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:35:07.598429 2016] [access_compat:error] [pid 20790] [client 127.0.0.1:43033] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:35:23.568350 2016] [access_compat:error] [pid 2976] [client 127.0.0.1:43036] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:37:42.845404 2016] [access_compat:error] [pid 2975] [client 127.0.0.1:43048] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:43:33.296665 2016] [access_compat:error] [pid 20790] [client 127.0.0.1:43054] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:43:38.808364 2016] [access_compat:error] [pid 2973] [client 127.0.0.1:43055] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:43:48.779916 2016] [access_compat:error] [pid 2974] [client 127.0.0.1:43058] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:44:04.844088 2016] [access_compat:error] [pid 20692] [client 127.0.0.1:43075] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:44:55.864509 2016] [access_compat:error] [pid 20692] [client 127.0.0.1:43089] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:45:26.133403 2016] [access_compat:error] [pid 2975] [client 127.0.0.1:43106] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:45:41.935316 2016] [access_compat:error] [pid 2975] [client 127.0.0.1:43121] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:45:46.436355 2016] [access_compat:error] [pid 20689] [client 127.0.0.1:43122] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:45:51.471438 2016] [access_compat:error] [pid 20976] [client 127.0.0.1:43123] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:45:54.444271 2016] [access_compat:error] [pid 20953] [client 127.0.0.1:43124] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Thu Mar 24 11:45:59.059590 2016] [access_compat:error] [pid 2973] [client 127.0.0.1:43125] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:42:42.302555 2016] [access_compat:error] [pid 2437] [client 127.0.0.1:55984] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:42:50.587018 2016] [access_compat:error] [pid 1239] [client 127.0.0.1:55992] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:43:00.013841 2016] [access_compat:error] [pid 2437] [client 127.0.0.1:55995] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:43:06.859718 2016] [access_compat:error] [pid 2435] [client 127.0.0.1:55996] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:43:23.066753 2016] [access_compat:error] [pid 1238] [client 127.0.0.1:55999] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:43:43.921253 2016] [access_compat:error] [pid 1239] [client 127.0.0.1:56003] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:43:48.389406 2016] [access_compat:error] [pid 2433] [client 127.0.0.1:56004] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:43:53.043102 2016] [access_compat:error] [pid 2437] [client 127.0.0.1:56005] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:43:57.893681 2016] [access_compat:error] [pid 2434] [client 127.0.0.1:56008] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:44:02.707259 2016] [access_compat:error] [pid 1235] [client 127.0.0.1:56009] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 15:44:06.646446 2016] [access_compat:error] [pid 1237] [client 127.0.0.1:56010] AH01797: client denied by server configuration: /srv/apps/magento/app/magento/app/etc/local.xml
+[Tue Mar 29 16:18:15.236014 2016] [authz_core:error] [pid 1230] [client 127.0.0.1:52142] AH01630: client denied by server configuration: /srv/apps/magento
+[Tue Mar 29 16:18:15.388405 2016] [authz_core:error] [pid 1230] [client 127.0.0.1:52142] AH01630: client denied by server configuration: /srv/apps/magento
+[Tue Mar 29 16:18:20.142431 2016] [authz_core:error] [pid 1230] [client 127.0.0.1:52142] AH01630: client denied by server configuration: /srv/apps/magento
+[Tue Mar 29 16:18:21.281548 2016] [authz_core:error] [pid 1230] [client 127.0.0.1:52142] AH01630: client denied by server configuration: /srv/apps/magento
+[Tue Mar 29 16:18:22.550379 2016] [authz_core:error] [pid 1230] [client 127.0.0.1:52142] AH01630: client denied by server configuration: /srv/apps/magento
+[Tue Mar 29 16:18:23.420031 2016] [authz_core:error] [pid 1230] [client 127.0.0.1:52142] AH01630: client denied by server configuration: /srv/apps/magento
+[Tue Mar 29 16:37:51.349909 2016] [negotiation:error] [pid 3151] [client 127.0.0.1:52193] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated).
+[Tue Mar 29 16:37:57.656819 2016] [negotiation:error] [pid 3191] [client 127.0.0.1:52200] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/
+[Tue Mar 29 16:37:57.833955 2016] [negotiation:error] [pid 3191] [client 127.0.0.1:52200] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/
+[Tue Mar 29 16:38:08.892591 2016] [negotiation:error] [pid 3192] [client 127.0.0.1:52201] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/locale/
+[Tue Mar 29 16:38:09.082819 2016] [negotiation:error] [pid 3192] [client 127.0.0.1:52201] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/locale/
+[Tue Mar 29 16:39:56.705475 2016] [negotiation:error] [pid 3193] [client 127.0.0.1:52202] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/locale/
+[Tue Mar 29 16:40:57.655012 2016] [negotiation:error] [pid 3194] [client 127.0.0.1:52204] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/config/?config%5Blocale%5D=en_GB&config%5Btimezone%5D=Europe%2FLondon&config%5Bcurrency%5D=EUR
+[Tue Mar 29 16:41:25.886000 2016] [negotiation:error] [pid 3157] [client 127.0.0.1:52205] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/config/?config%5Blocale%5D=en_GB&config%5Btimezone%5D=Europe%2FLondon&config%5Bcurrency%5D=EUR
+[Tue Mar 29 16:41:26.132502 2016] [negotiation:error] [pid 3153] [client 127.0.0.1:52206] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated).
+[Tue Mar 29 16:41:26.304120 2016] [negotiation:error] [pid 3157] [client 127.0.0.1:52205] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/config/?config%5Blocale%5D=en_GB&config%5Btimezone%5D=Europe%2FLondon&config%5Bcurrency%5D=EUR
+[Tue Mar 29 16:41:26.714631 2016] [negotiation:error] [pid 3157] [client 127.0.0.1:52205] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/config/?config%5Blocale%5D=en_GB&config%5Btimezone%5D=Europe%2FLondon&config%5Bcurrency%5D=EUR
+[Tue Mar 29 16:42:43.349079 2016] [negotiation:error] [pid 3155] [client 127.0.0.1:52208] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/administrator/
+[Tue Mar 29 16:42:43.587100 2016] [negotiation:error] [pid 3155] [client 127.0.0.1:52208] AH00687: Negotiation: discovered file(s) matching request: /srv/apps/Magento/install (None could be negotiated)., referer: http://www.magento-dev.com/index.php/install/wizard/administrator/
+[Tue Mar 29 16:43:48.178829 2016] [access_compat:error] [pid 3191] [client 127.0.0.1:52214] AH01797: client denied by server configuration: /srv/apps/Magento/app/etc/local.xml
+[Tue May 24 08:02:57.188198 2016] [access_compat:error] [pid 1350] [client 127.0.0.1:57849] AH01797: client denied by server configuration: /srv/apps/Magento/app/etc/local.xml
+[Thu Jun 23 11:37:31.000883 2016] [access_compat:error] [pid 2924] [client 127.0.0.1:47926] AH01797: client denied by server configuration: /srv/apps/Magento/app/etc/local.xml
